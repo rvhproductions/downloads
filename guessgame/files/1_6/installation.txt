@@ -1,0 +1,43 @@
+========= GuessGame - Read this text =========
+
+Thank you for downloading GuessGame!
+
+Learn how to install GuessGame by reading this text file.
+
+Applies to GuessGame version 1.4.3 and newer.
+
+Installation - Fresh installation
+
+1. Extract GuessGame.zip into a folder.
+2. Launch GuessGame and click the Create a profile button.
+3. Enter a name, and click Create profile.
+4. Wait for GuessGame to finish profile creation.
+5. If GuessGame needs to restart to finish profile creation, click the Restart button.
+
+Optional: Create a shortcut to GuessGameForWindows.exe. You can put this shortcut on the desktop or somewhere else. This shortcut allows you to access the game easier.
+
+After restarting, your profile name will show up on the login screen. Click it, and click Log in.
+Now you have installed GuessGame. Have fun playing!
+
+Installation - Software Update
+
+Important: Profiles are likely to become incompatible with older GuessGame versions. After installing you must first update your profiles before you can load them.
+For more information about this, go to rvhproductions.com/guessgame.
+
+1. Go to Settings, and then click Software update.
+2. Now you should see the Software Update screen. If an update is available, read the information and click Download.
+
+Wait for GuessGame to download the update file.
+When the download finishes, the game will go back to the main menu.
+
+3. To install the update file, click Quit, then click the new Quit button that appeared.
+
+Wait for GuessGame to save your progress.
+
+4. Extract GuessGameForWindows.exe out of the downloaded update file, GuessGame.zip.
+5. Replace the old GuessGameForWindows.exe game file.
+
+Optional: You can save your old GuessGame game file somewhere else.
+
+GuessGame is owned and developed by RVH Productions.
+To learn more about GuessGame, please visit the RVH Productions website: https://rvhproductions.com.

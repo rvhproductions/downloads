@@ -2,11 +2,6 @@ import random
 import os
 build = "v1.3b1_27_1_21"
 version = "1.3 Beta 1"
-beta = "true"
-if beta == "true":
-    print("[BETA VERSION - " + build + "]")
-    print("Running on: " + os.name)
-    print("This build may have bugs, report them at an RVH Productions Team Member!")
 mode = 0
 print("")
 print("")
@@ -46,7 +41,7 @@ while mode == 0:
     elif option == 7:
         print("Credits")
         print("")
-        print("Developed and published by RVH Productions.")
+        print("GuessGame for Python v1.3 Beta 1 Reupload")
         print("")
         print("Copyright RVH Productions.")
         mode = 0
@@ -54,16 +49,10 @@ while mode == 0:
         print("Game info")
         print("")
         print("GuessGame for Python " + version)
-        print("Version build name: " + build)
+        print("Version name: " + build)
         mode = 0
     elif option == 9:
-        if beta == "true":
-            print("If you want to report a bug, you can contact someone from the RVH Productions Team.")
-            print("")
-            print("Reporting a bug is simple, contact a Team Member on our Discord server, or via email.")
-            print("")
-            print("When asked about the version, make sure to include this: " + build)
-        mode = 0
+        print("Bug reporting is not available for this version.")
     elif option == 10:
         mode = 10
     else:

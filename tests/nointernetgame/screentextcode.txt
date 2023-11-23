@@ -1,0 +1,60 @@
+        void hidePausedScreen()
+        {
+            pausedScreen.Visibility = Visibility.Hidden;
+            DoubleAnimation OpacityAnim = new DoubleAnimation();
+            OpacityAnim.From = 0;
+            OpacityAnim.To = 0.25;
+            OpacityAnim.Duration = new Duration(TimeSpan.FromSeconds(0.1));
+            DoubleAnimation OpacityAnim2 = new DoubleAnimation();
+            OpacityAnim2.From = 0;
+            OpacityAnim2.To = 1;
+            OpacityAnim2.Duration = new Duration(TimeSpan.FromSeconds(0.2));
+            DoubleAnimation TopAnim = new DoubleAnimation();
+            TopAnim.From = 400;
+            TopAnim.To = this.gameWindow.Height / 2 - resumeText.Height / 2 + 100;
+            TopAnim.Duration = new Duration(TimeSpan.FromSeconds(0.2));
+            pausedText.BeginAnimation(OpacityProperty, OpacityAnim2);
+            resumeText.BeginAnimation(TopProperty, TopAnim);
+            pausedscreenBackground.BeginAnimation(OpacityProperty, OpacityAnim);
+        }
+
+        void showPausedScreen(int stage)
+        {
+            pausedScreen.Visibility = Visibility.Visible;
+            DoubleAnimation SizeAnim = new DoubleAnimation();
+            if (stage == 1)
+            {
+                SizeAnim.From = 28;
+                SizeAnim.To = 26.5;
+                SizeAnim.Duration = new Duration(TimeSpan.FromSeconds(0.05));
+            }
+            else if (stage == 2)
+            {
+                SizeAnim.From = 26.5;
+                SizeAnim.To = 25;
+                SizeAnim.Duration = new Duration(TimeSpan.FromSeconds(0.1));
+            }
+            else if (stage == 3)
+            {
+                SizeAnim.From = 25;
+                SizeAnim.To = 24;
+                SizeAnim.Duration = new Duration(TimeSpan.FromSeconds(0.15));
+                DoubleAnimation OpacityAnim = new DoubleAnimation();
+                OpacityAnim.From = 0;
+                OpacityAnim.To = 1;
+                OpacityAnim.Duration = new Duration(TimeSpan.FromSeconds(0.2));
+                resumeText.BeginAnimation(OpacityProperty, OpacityAnim);
+            }
+            else if (stage == 4)
+            {
+                SizeAnim.From = 24;
+                SizeAnim.To = 23;
+                SizeAnim.Duration = new Duration(TimeSpan.FromSeconds(0.3));
+            }
+            if (stage <= 4)
+            {
+                int newStage = stage + 1;
+                SizeAnim.Completed += (sender, EventArgs) => showPausedScreen(newStage);
+                pausedText.BeginAnimation(FontSizeProperty, SizeAnim);
+            }
+        }

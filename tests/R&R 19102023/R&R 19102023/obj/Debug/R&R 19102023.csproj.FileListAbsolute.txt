@@ -1,0 +1,30 @@
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\bin\Debug\R&R 19102023.exe.config
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\bin\Debug\R&R 19102023.exe
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\bin\Debug\R&R 19102023.pdb
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\obj\Debug\R&R 19102023.csproj.AssemblyReference.cache
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\obj\Debug\MainWindow.g.cs
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\obj\Debug\App.g.cs
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\obj\Debug\R&R 19102023_MarkupCompile.cache
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\obj\Debug\R&R 19102023_MarkupCompile.lref
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\obj\Debug\MainWindow.baml
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\obj\Debug\R&R 19102023.g.resources
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\obj\Debug\R_R_19102023.Properties.Resources.resources
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\obj\Debug\R&R 19102023.csproj.GenerateResource.cache
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\obj\Debug\R&R 19102023.csproj.CoreCompileInputs.cache
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\obj\Debug\R&R 19102023.exe
+C:\Users\Individueel\source\repos\R&R 19102023\R&R 19102023\obj\Debug\R&R 19102023.pdb
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\obj\Debug\R&R 19102023.csproj.AssemblyReference.cache
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\obj\Debug\MainWindow.g.cs
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\obj\Debug\App.g.cs
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\obj\Debug\MainWindow.baml
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\obj\Debug\R_R_19102023.Properties.Resources.resources
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\obj\Debug\R&R 19102023.csproj.GenerateResource.cache
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\obj\Debug\R&R 19102023.csproj.CoreCompileInputs.cache
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\obj\Debug\applecatcher_MarkupCompile.cache
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\obj\Debug\applecatcher_MarkupCompile.lref
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\obj\Debug\applecatcher.exe
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\obj\Debug\applecatcher.pdb
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\bin\Debug\applecatcher.exe.config
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\bin\Debug\applecatcher.exe
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\bin\Debug\applecatcher.pdb
+C:\Users\Kantoor 7\Desktop\R&R 19102023\R&R 19102023\obj\Debug\applecatcher.g.resources
